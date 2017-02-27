@@ -1,0 +1,8 @@
+public class Tugas1{
+
+     public static void main(String []args){
+         String nama = "Vina Rahmawati";
+         String Kota = "Pati";
+        System.out.println("nama : " + nama + " Kota: " + Kota);
+     }
+}
