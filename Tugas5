@@ -1,0 +1,15 @@
+public class Tugas5{
+
+     public static void main(String []args){
+         int b = 9;
+         int hasil = HitungMundur(b);
+         for (int y= hasil; y>= 1; y--){
+         System.out.println(y);
+     }
+     }
+     public static int HitungMundur(int b1){
+         int angka = b1;
+         return angka;
+      
+     }
+}
