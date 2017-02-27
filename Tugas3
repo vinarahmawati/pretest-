@@ -1,0 +1,11 @@
+public class Tugas3{
+
+     public static void main(String []args){
+         Tampilangka(3);
+     }
+     public static void Tampilangka(int angka){
+         
+        System.out.println("angka yang anda masukkan adalah angka " + angka);
+        
+     }
+}
