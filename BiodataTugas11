@@ -1,0 +1,5 @@
+public class BiodataTugas11{
+	String nama = "Vina Rahmawati";
+	String alamat = "Pati";
+	int umur = 21;
+}
