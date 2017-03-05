@@ -1,0 +1,6 @@
+public class Tugas9{
+	public static void main(String[] args){
+		BiodataTugas9 a = new BiodataTugas9("Vina Rahmawati");
+		a.Display();
+	}
+}
