@@ -1,0 +1,6 @@
+public class Tugas11{
+	public static void main(String[] args){
+		Mahasiswa v = new Mahasiswa();
+		v.CetakBiodata();
+	}
+}
