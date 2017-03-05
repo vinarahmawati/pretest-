@@ -1,0 +1,11 @@
+public class BiodataTugas9{
+	String nama;
+
+	BiodataTugas9(String n){
+		nama = n;
+	}
+
+	void Display(){
+		System.out.println(nama);
+	}
+}
