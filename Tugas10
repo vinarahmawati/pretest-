@@ -1,0 +1,15 @@
+public class Tugas10{
+	public static void main(String[] args){
+		BiodataTugas10 a = new BiodataTugas10();
+
+		a.setNama("Vina Rahmawati");
+		a.setUmur(21);
+		a.setAlamat("Pati");
+
+		String namaPrint = a.getNama();
+		int umurPrint = a.getUmur();
+		String alamatPrint = a.getAlamat();
+
+		System.out.println("Nama : " + namaPrint + "\nAlamat : " + alamatPrint + "\nUmur : " + umurPrint);
+	}
+}
